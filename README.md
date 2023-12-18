@@ -1,5 +1,5 @@
-# F1 Challange
-This project was based on a Medium [challange](https://medium.com/@BetterEverythingsql-exercise-for-data-analysts-formula-1-data-f64a5b690a19).
+# F1 Challenge
+This project was based on a Medium [challenge](https://medium.com/@BetterEverythingsql-exercise-for-data-analysts-formula-1-data-f64a5b690a19).
 
 ## Monaco 2023 GP
 
@@ -7,7 +7,7 @@ Monaco is a unique and challenging F1 circuit that tests the drivers and teams t
 The narrow streets and tight corners make it difficult to overtake, which leads to close racing and exciting finishes. 
 The race is also surrounded by glamour and excitement, making it one of the most popular events on the F1 calendar, and also one of my favorite weekends of the F1 season!
 
-Being a huge F1 fan and a Data Analyst, I had to accept this Challange!
+Being a huge F1 fan and a Data Analyst, I had to accept this Challenge!
 
 ## Getting Started
 
@@ -22,9 +22,9 @@ Your table should be called `monaco_gp_2023` and have these attributes:
 The code for building the database and the table can be found [here](schema.sql).
 After successfully creating your environment, you can copy the code from [data.sql](data.sql) to insert all the information from the top 8 pilots of this race, retrieved from [wikipedia](https://en.wikipedia.org/wiki/2023_Monaco_Grand_Prix).
 
-## The Challange
+## The Challenge
 
-The challange provided by Medium is to write a SQL query that outputs the race result with every car’s difference to the race winner and the car that finished in front of it.
+The challenge provided by Medium is to write a SQL query that outputs the race result with every car’s difference to the race winner and the car that finished in front of it.
 Returning something like this:
 
 | Car Number | Difference to the Winner | Difference to Previous Pilot | 
