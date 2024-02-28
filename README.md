@@ -1,5 +1,5 @@
 # F1 Challenge
-This project was based on a Medium [challenge](https://medium.com/@BetterEverythingsql-exercise-for-data-analysts-formula-1-data-f64a5b690a19).
+This project was based on a Medium [challenge]([https://medium.com/@BetterEverythingsql-exercise-for-data-analysts-formula-1-data-f64a5b690a19](https://medium.com/@BetterEverything/sql-exercise-for-data-analysts-formula-1-data-f64a5b690a19)).
 
 ## Monaco 2023 GP
 
